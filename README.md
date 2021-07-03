@@ -5,7 +5,8 @@
 /Backups is for backups.. I shouldn't have to explain this
 
 ## Add these to your .bashrc
-export BetterMineOS="$HOME/.../BetterMineOS/"  
+export BetterMineOS="$HOME/.../BetterMineOS/"
+export PATH="$HOME/.../BetterMineOS/Commands:$PATH"
 
 ## Usage
 Run Commands/menu.sh to create a server. You can also use it to start, connect to, and stop servers.
